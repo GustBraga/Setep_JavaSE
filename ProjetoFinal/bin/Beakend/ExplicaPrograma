@@ -1,0 +1,14 @@
+Meu programa consiste em um "Sistema de Alunos e Professores", realizando o cadastramento de ambos e algumas outras funcionalidades restritas a cada um deles.
+
+Professores: 
+
+1 - INTRANET - Os professores possuem uma INTRANET que para ser acessada precisa sem colocada a sua senha e o seu login, que são disponibilizados pela escola 
+(Admin e Admin), ao finalizarem o cadastro o login e a senha cadastrados ja entram no banco de dados da escola, possibilitando o acesso a INTRANET pelos mesmos.
+
+2 - MENU - Dentro da INTRANET os professores possuem ja algumas escolhas a serem feitas, eles podem se cadastrar para alterar o login e a senha e adcionar ao banco de
+dados algumas informações, podem cadastrar ou alterar uma nota e cadastrar ou alterar faltas.
+
+Alunos: 
+
+1 - Menu - Dentro do MENU os alunos possuem 3 opções, realizar o seu cadastro para gerar a sua matrícula, visualizar alguma nota ou vizualizar alguma falta e por ultimo
+abrir um requerimento.
